@@ -3,10 +3,10 @@ repository: RU-MaGIC-Classes/Genomics-course-guide
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Genomics Course Guide
+topnav_title: Bioinformatics of Genomics
 # this appears on the top navigation bar next to the home button
 
-site_title: Genomics Course Guide
+site_title: Guide
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: Molecular and Genomics Informatics Core
@@ -33,7 +33,7 @@ exclude:
   - vendor
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Genomics Course Guide
+feedback_subject_line: Bioinformatics of Genomics
 
 feedback_email: alex.lemenze@rutgers.edu
 # used as a contact email for the Feedback link in the top navigation bar
