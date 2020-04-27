@@ -31,7 +31,7 @@ topnav_dropdowns:
         - title: RNA-seq 101
           url: /pages/rna/rna_landing.html
         - title: Epigenetics 101
-          url: /pages/epi/epi_landing.html
+          url: /epi_landing.html
         - title: Single Cell 101
           url: /pages/single-cell/single-cell_landing.html
         - title: Long Reads 101

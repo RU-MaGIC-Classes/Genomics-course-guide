@@ -7,7 +7,7 @@ summary: "This shows a sample layout for a knowledge base. Each square could lin
 sidebar: mydoc_sidebar
 permalink: epi_landing.html
 toc: false
-folder: mydoc
+folder: epi
 ---
 
 Here's the sample knowledge-base style layout:
