@@ -1,6 +1,6 @@
 ## Topnav single links
 ## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
-topnav:
+
 
 #Topnav dropdowns
 topnav_dropdowns:
@@ -9,34 +9,34 @@ topnav_dropdowns:
     - title: Intro Classes
       folderitems:
         - title: Intro to NGS
-          url: /ngs_landing.html
+          url: /pages/intro-to-ngs/ngs_landing.md
         - title: Intro to Bioinformatics
-          url: /bi_landing.html
+          url: /pages/intro-to-bi/bi_landing.md
         - title: Intro to Cloud and HPC resources
-          url: /cloud-hpc_landing.html
+          url: /pages/intro-to-cloud-hpc/cloud-hpc_landing.md
         - title: Workflow management and Containers
-          url: /workflow-containers_landing.html
+          url: /pages/workflow-containers/workflow-containers_landing.md
     - title: Languages
       folderitems:
         - title: Intro to Unix
-          url: /unix_landing.html
+          url: /pages/intro-to-unix/unix_landing.md
         - title: Intro to Python
-          url: /python_landing.html
+          url: /pages/intro-to-python/python_landing.md
         - title: Intro to R
-          url: /R_landing.html
+          url: /pages/intro-to-r/R_landing.md
     - title: Workflows
       folderitems:
         - title: WGS 101
-          url: /wgs_landing.html
+          url: /pages/wgs/wgs_landing.md
         - title: RNA-seq 101
-          url: /rna_landing.html
+          url: /pages/rna/rna_landing.md
         - title: Epigenetics 101
-          url: /pages/epi/epi_landing.html
+          url: /pages/epi/epi_landing.md
         - title: Single Cell 101
-          url: /single-cell_landing.html
+          url: /pages/single-cell/single-cell_landing.md
         - title: Long Reads 101
-          url: /long-read_landing.html
-
+          url: /pages/long-read/long-read_landing.md
+topnav:
 - title: Topnav
   items:
     - title: GitHub
