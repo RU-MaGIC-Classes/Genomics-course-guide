@@ -1,13 +1,12 @@
 ---
-title: Knowledge-base layout
-tags: [special_layouts]
+title: Long Reads Sequencing
+tags: 
 keywords: knowledge base, support portal, grid, doc portal
-last_updated: July 3, 2016
 summary: "This shows a sample layout for a knowledge base. Each square could link to a tag archive page. In this example, font icons from Font Awesome are used for the graphics, and the layout is pulled from the Modern Business theme. ."
-sidebar: mydoc_sidebar
-permalink: mydoc_kb_layout.html
+sidebar: long-read_sidebar
+permalink: long-read_landing.html
 toc: false
-folder: mydoc
+folder: long-read
 ---
 
 Here's the sample knowledge-base style layout:

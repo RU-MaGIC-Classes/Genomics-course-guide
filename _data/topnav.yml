@@ -9,33 +9,33 @@ topnav_dropdowns:
     - title: Intro Classes
       folderitems:
         - title: Intro to NGS
-          url: /pages/intro-to-ngs/ngs_landing.html
+          url: /ngs_landing.html
         - title: Intro to Bioinformatics
-          url: /pages/intro-to-bi/bi_landing.html
+          url: /bi_landing.html
         - title: Intro to Cloud and HPC resources
-          url: /pages/intro-to-cloud-hpc/cloud-hpc_landing.html
+          url: /cloud-hpc_landing.html
         - title: Workflow management and Containers
-          url: /pages/workflow-containers/workflow-containers_landing.html
+          url: /workflow-containers_landing.html
     - title: Languages
       folderitems:
         - title: Intro to Unix
-          url: /pages/intro-to-unix/unix_landing.html
+          url: /unix_landing.html
         - title: Intro to Python
-          url: /pages/intro-to-python/python_landing.html
+          url: /python_landing.html
         - title: Intro to R
-          url: /pages/intro-to-r/R_landing.html
+          url: /R_landing.html
     - title: Workflows
       folderitems:
         - title: WGS 101
-          url: /pages/wgs/wgs_landing.html
+          url: /wgs_landing.html
         - title: RNA-seq 101
-          url: /pages/rna/rna_landing.html
+          url: /rna_landing.html
         - title: Epigenetics 101
           url: /epi_landing.html
         - title: Single Cell 101
-          url: /pages/single-cell/single-cell_landing.html
+          url: /single-cell_landing.html
         - title: Long Reads 101
-          url: /pages/long-read/long-read_landing.html
+          url: /long-read_landing.html
 topnav:
 - title: Topnav
   items:
