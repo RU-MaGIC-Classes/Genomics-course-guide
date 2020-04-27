@@ -2,9 +2,8 @@
 title: Epigenetics
 tags: 
 keywords: knowledge base, support portal, grid, doc portal
-last_updated: July 3, 2016
 summary: "This shows a sample layout for a knowledge base. Each square could link to a tag archive page. In this example, font icons from Font Awesome are used for the graphics, and the layout is pulled from the Modern Business theme. ."
-sidebar: mydoc_sidebar
+sidebar: product1_sidebar
 permalink: epi_landing.html
 toc: false
 folder: epi
