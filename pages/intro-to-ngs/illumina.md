@@ -13,9 +13,9 @@ folder: intro-to-ngs
 
 
 ### Sequencer Specs
-|Platform | Max Number of Cycles | Flow Cell Size | Data output (reads) | Data output (Gb max)|
+| Platform | Max Number of Cycles | Flow Cell Size | Data output (reads) | Data output (Gb max) |
 |-------|-------|-------|-------|-------|
-|test|test|test|test|Test|
+| tes | test | test | test | Test |
 ### How Illumina Works
 
 #### Bridge Amplification
