@@ -25,8 +25,8 @@ Welcome to the Next Generation Sequencing Knowledge Base:
                  </div>
                  <div class="panel-body">
                      <h4>Illumina Sequencer Operation</h4>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                     <a href="tag_getting_started.html" class="btn btn-primary">Learn More</a>
+                     <p>World Leader in short read sequencing</p>
+                     <a href="illumina.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -40,8 +40,8 @@ Welcome to the Next Generation Sequencing Knowledge Base:
                  </div>
                  <div class="panel-body">
                      <h4>MGI Sequencer Operation</h4>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                     <a href="tag_navigation.html" class="btn btn-primary">Learn More</a>
+                     <p>Illumina's competition in short reads</p>
+                     <a href="bgi.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -55,8 +55,8 @@ Welcome to the Next Generation Sequencing Knowledge Base:
                  </div>
                  <div class="panel-body">
                      <h4>PacBio Sequencer Operation</h4>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                     <a href="tag_single_sourcing.html" class="btn btn-primary">Learn More</a>
+                     <p>The original long reads sequencing</p>
+                     <a href="pacbio.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -70,45 +70,9 @@ Welcome to the Next Generation Sequencing Knowledge Base:
                  </div>
                  <div class="panel-body">
                      <h4>Oxford Nanopore Sequencer Operation</h4>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                     <a href="tag_formatting.html" class="btn btn-primary">Learn More</a>
+                     <p>Ultra long real time sequencing</p>
+                     <a href="ont.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
 </div>
-
-
-## Generating a list of all pages with a certain tag
-
-If you don't want to link to a tag archive index, but instead want to list all pages that have a certain tag, you could use this code:
-
-```html
-{% raw %}Getting started pages:
-<ul>
-{% assign sorted_pages = site.pages | sort: 'title' %}
-{% for page in sorted_pages %}
-{% for tag in page.tags %}
-{% if tag == "getting_started" %}
-<li><a href="{{ page.url | remove: "/" }}">{{page.title}}</a></li>
-{% endif %}
-{% endfor %}
-{% endfor %}
-</ul>{% endraw %}
-```
-
-Here's the result:
-
-Getting started pages:
-
-<ul>
-{% assign sorted_pages = site.pages | sort: 'title' %}
-{% for page in sorted_pages %}
-{% for tag in page.tags %}
-{% if tag == "getting_started" %}
-<li><a href="{{ page.url | remove: "/"}}">{{page.title}}</a></li>
-{% endif %}
-{% endfor %}
-{% endfor %}
-</ul>
-
-{% include links.html %}
