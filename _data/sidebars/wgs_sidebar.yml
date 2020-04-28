@@ -3,21 +3,57 @@
 
 entries:
 - title: Sidebar
-  product: RNA-seq
+  product: Whole Genome Sequencing
   version: 1.0
   folders:
 
   - title: Getting Started
     output: web, pdf
     folderitems:
-    - title: Product 1 home
-      url: /p1_landing_page.html
+    - title: WGS home
+      url: /wgs.html
       output: web
 
-  - title: Another heading
+  - title: Lecture Links
     output: web, pdf
 
     folderitems:
-    - title: Sample 4
-      url: /p1_sample4.html
+    - title: WGS Library Prep Lecture
+      external_url: https://github.com/RU-MaGIC-Classes/WGS-101/blob/master/docs/lectures/WGS_library_prep.pdf
       output: web, pdf
+    - title: WGS Alignment Lecture
+      external_url: https://github.com/RU-MaGIC-Classes/WGS-101/blob/master/docs/lectures/WGS_alignment.pdf
+      output: web, pdf
+    - title: WGS BWA Lecture
+      external_url: https://github.com/RU-MaGIC-Classes/WGS-101/blob/master/docs/lectures/WGS_BWA.pdf
+      output: web, pdf
+    - title: WGS De Novo Assembly Lecture
+      external_url: https://github.com/RU-MaGIC-Classes/WGS-101/blob/master/docs/lectures/WGS_de_novo.pdf
+      output: web, pdf
+
+  - title: Knowledgebase Links
+    output: web, pdf
+    folderitems:
+    - title: WGS Library Preps
+      url: /wgs_library.html
+      output: web
+    - title: WGS QC
+      url: /wgs_qc.html
+      output: web
+    - title: WGS Alignment Methods
+      url: /wgs_bwa.html
+      output: web
+    - title: WGS De Novo Assembly Methods
+      url: /wgs_denovo.html
+      output: web
+  
+  - title: Interactive Notebooks
+    output: web, pdf
+
+    folderitems:
+    -title: BWA Alignment
+      external_url: http://binder.bioinformagic.io/v2/gh/RU-MaGIC-Classes/WGS-101/master?filepath=Alignment.ipynb
+      output: web
+    -title: De Novo Assembly
+      external_url: http://binder.bioinformagic.io/v2/gh/RU-MaGIC-Classes/WGS-101/master?filepath=De_Novo_Assembly.ipynb
+      output: web
