@@ -20,7 +20,7 @@ Welcome to the Next Generation Sequencing Knowledge Base:
                  <div class="panel-heading">
                      <span class="fa-stack fa-5x">
                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                           <i class="fas fa-chess-king fa-stack-1x fa-inverse"></i>
+                           <i class="fa fa-flask fa-stack-1x fa-inverse"></i>
                      </span>
                  </div>
                  <div class="panel-body">
@@ -35,7 +35,7 @@ Welcome to the Next Generation Sequencing Knowledge Base:
                  <div class="panel-heading">
                      <span class="fa-stack fa-5x">
                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                           <i class="fas fa-dumpster-fire fa-stack-1x fa-inverse"></i>
+                           <i class="fa fa-ship fa-stack-1x fa-inverse"></i>
                      </span>
                  </div>
                  <div class="panel-body">
@@ -50,7 +50,7 @@ Welcome to the Next Generation Sequencing Knowledge Base:
                  <div class="panel-heading">
                      <span class="fa-stack fa-5x">
                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                           <i class="fa fa-flask fa-stack-1x fa-inverse"></i>
+                           <i class="fa fa-diamond fa-stack-1x fa-inverse"></i>
                      </span>
                  </div>
                  <div class="panel-body">
@@ -65,7 +65,7 @@ Welcome to the Next Generation Sequencing Knowledge Base:
                  <div class="panel-heading">
                      <span class="fa-stack fa-5x">
                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                           <i class="fas fa-dna fa-stack-1x fa-inverse"></i>
+                           <i class="fa fa-recycle fa-stack-1x fa-inverse"></i>
                      </span>
                  </div>
                  <div class="panel-body">
