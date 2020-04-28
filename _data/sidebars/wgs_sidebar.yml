@@ -49,11 +49,10 @@ entries:
   
   - title: Interactive Notebooks
     output: web, pdf
-
     folderitems:
-    -title: BWA Alignment
+    - title: BWA Alignment
       external_url: http://binder.bioinformagic.io/v2/gh/RU-MaGIC-Classes/WGS-101/master?filepath=Alignment.ipynb
       output: web
-    -title: De Novo Assembly
+    - title: De Novo Assembly
       external_url: http://binder.bioinformagic.io/v2/gh/RU-MaGIC-Classes/WGS-101/master?filepath=De_Novo_Assembly.ipynb
       output: web
