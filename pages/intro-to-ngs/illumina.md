@@ -28,7 +28,7 @@ folder: intro-to-ngs
 
 ## How Illumina Works
 Illumina sequencing operates following the below schematic. 
-{% include image.html file="figure1.jpg" url="https://s3.amazonaws.com/bitesizebio/content/uploads/2012/08/figure1.png" alt="Illumina schematic" %}
+{% include image.html file="figure1.png" url="https://s3.amazonaws.com/bitesizebio/content/uploads/2012/08/figure1.png" alt="Illumina schematic" %}
 
 ### Bridge Amplification
 After you have done the appropriate library generation, you bind the library to the flow cell. The flow cell is seeded with oligonucleotides that are complementary to the adapter sequences. Once bound, there are several rounds of amplification. This is done as "bridge amplification" where the fragment arches over like a bridge to the other adapter complementary site and allows the amplification of one molecule into a cluster of molecules- hence the term clustering. 

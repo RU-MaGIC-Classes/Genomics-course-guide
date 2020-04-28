@@ -21,3 +21,19 @@ entries:
     - title: NGS-101 Lecture
       external_url: https://github.com/RU-MaGIC-Classes/Intro-to-NGS/blob/master/docs/lectures/NGS_101.pdf
       output: web, pdf
+  
+  - title: Knowledgebase Links
+    output: web, pdf
+    folderitems:
+    - title: Illumina Technology
+      url: /illumina.html
+      output: web
+    - title: BGI/MGI Technology
+      url: /bgi.html
+      output: web
+    - title: PacBio Technology
+      url: /pacbio.html
+      output: web
+    - title: Oxford Nanopore Technology
+      url: /ont.html
+      output: web

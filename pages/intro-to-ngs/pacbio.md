@@ -13,6 +13,7 @@ folder: intro-to-ngs
 [Pacific Biosciences (PacBio)](https://www.pacb.com/) introduces the concept of long read sequencing. Whereas short-read sequencing has historically been 200-400bp, and some of the longer technologies like Sanger can reach ~1000bp, PacBio has the target average of 10-40Kb. You can target even larger as well, with the PacBio records being >100Kb. The 10-40Kb is usually the target though, as the circularized nature of the read allows for inherent error correction to compensate for the higher error rate of long reads sequencing. 
 
 ## Sequencer Specs
+
 | Platform | Read time | Flow Cell Size | Data Output (reads max) | Data Output (Gb max) |
 |-------|--------|---------|----------|-----------|
 | RS II | Up to 4 hours | 1 flow cell with up to 16 SMRT cells | ~55,000 reads | ~1 Gb/SMRTcell |
