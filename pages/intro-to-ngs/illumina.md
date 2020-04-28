@@ -13,9 +13,18 @@ folder: intro-to-ngs
 
 
 ### Sequencer Specs
-| Platform | Max Number of Cycles | Flow Cell Size | Data output (reads) | Data output (Gb max) |
-|-------|-------|-------|-------|-------|
+
+
+| Platform | Max Number of Cycles | Flow Cell Size | Data Output (reads) | Data Output (Gb max) |
+|-------|--------|---------|----------|-----------|
 | tes | test | test | test | Test |
+
+| Priority apples | Second priority | Third priority |
+|-------|--------|---------|
+| ambrosia | gala | red delicious |
+| pink lady | jazz | macintosh |
+| honeycrisp | granny smith | fuji |
+
 ### How Illumina Works
 
 #### Bridge Amplification
