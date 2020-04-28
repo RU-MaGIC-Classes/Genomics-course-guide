@@ -10,17 +10,25 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Get started
+    - title: Introduction
       url: /index.html
       output: web, pdf
       type: homepage
 
-  - title: Release Notes
+  - title: Operating
     output: web, pdf
     folderitems:
 
-    - title: 6.0 Release notes
-      url: /mydoc_release_notes_60.html
+    - title: How to access
+      url: /access.html
+      output: web, pdf
+
+    - title: Schedule
+      url: /schedule.html
+      output: web, pdf
+
+    - title: Other Sources of learning
+      url: /others.html
       output: web, pdf
 
     
