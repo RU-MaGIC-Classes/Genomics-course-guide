@@ -3,21 +3,21 @@
 
 entries:
 - title: Sidebar
-  product: RNA-seq
+  product: NGS
   version: 1.0
   folders:
 
   - title: Getting Started
     output: web, pdf
     folderitems:
-    - title: Product 1 home
-      url: /p1_landing_page.html
+    - title: NGS Home
+      url: /ngs_landing.html
       output: web
 
-  - title: Another heading
+  - title: Lecture Links
     output: web, pdf
 
     folderitems:
     - title: Sample 4
-      url: /p1_sample4.html
+      external_url: https://github.com/RU-MaGIC-Classes/Intro-to-NGS/blob/master/docs/lectures/NGS_101.pdf
       output: web, pdf

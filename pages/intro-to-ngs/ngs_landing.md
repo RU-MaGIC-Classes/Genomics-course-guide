@@ -1,15 +1,15 @@
 ---
 title: Intro to NGS
 tags: 
-keywords: knowledge base, support portal, grid, doc portal
-summary: "This shows a sample layout for a knowledge base. Each square could link to a tag archive page. In this example, font icons from Font Awesome are used for the graphics, and the layout is pulled from the Modern Business theme. ."
+keywords: knowledge base, NGS
+summary: "Introduction to Next Generation Sequencing"
 sidebar: ngs_sidebar
 permalink: ngs_landing.html
 toc: false
 folder: intro-to-ngs
 ---
 
-Here's the sample knowledge-base style layout:
+Welcome to the Next Generation Sequencing Knowledge Base:
 
 <div class="row">
          <div class="col-lg-12">
@@ -20,11 +20,11 @@ Here's the sample knowledge-base style layout:
                  <div class="panel-heading">
                      <span class="fa-stack fa-5x">
                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                           <i class="fa fa-tree fa-stack-1x fa-inverse"></i>
+                           <i class="fa fa-chess-king fa-stack-1x fa-inverse"></i>
                      </span>
                  </div>
                  <div class="panel-body">
-                     <h4>Getting started</h4>
+                     <h4>Illumina Sequencer Operation</h4>
                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                      <a href="tag_getting_started.html" class="btn btn-primary">Learn More</a>
                  </div>
@@ -35,11 +35,11 @@ Here's the sample knowledge-base style layout:
                  <div class="panel-heading">
                      <span class="fa-stack fa-5x">
                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                           <i class="fa fa-car fa-stack-1x fa-inverse"></i>
+                           <i class="fa fa-dumpster-fire fa-stack-1x fa-inverse"></i>
                      </span>
                  </div>
                  <div class="panel-body">
-                     <h4>Navigation</h4>
+                     <h4>MGI Sequencer Operation</h4>
                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                      <a href="tag_navigation.html" class="btn btn-primary">Learn More</a>
                  </div>
@@ -50,11 +50,11 @@ Here's the sample knowledge-base style layout:
                  <div class="panel-heading">
                      <span class="fa-stack fa-5x">
                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                           <i class="fa fa-support fa-stack-1x fa-inverse"></i>
+                           <i class="fa fa-flask fa-stack-1x fa-inverse"></i>
                      </span>
                  </div>
                  <div class="panel-body">
-                     <h4>Single sourcing</h4>
+                     <h4>PacBio Sequencer Operation</h4>
                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                      <a href="tag_single_sourcing.html" class="btn btn-primary">Learn More</a>
                  </div>
@@ -65,11 +65,11 @@ Here's the sample knowledge-base style layout:
                  <div class="panel-heading">
                      <span class="fa-stack fa-5x">
                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                           <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+                           <i class="fa fa-dna fa-stack-1x fa-inverse"></i>
                      </span>
                  </div>
                  <div class="panel-body">
-                     <h4>Formatting</h4>
+                     <h4>Oxford Nanopore Sequencer Operation</h4>
                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                      <a href="tag_formatting.html" class="btn btn-primary">Learn More</a>
                  </div>
