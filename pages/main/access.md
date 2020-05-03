@@ -26,3 +26,14 @@ Now once you have these amazing Jupyter Notebooks, you can either statically exp
 Binder based organizations (of which mybinder is the most prevelant) are powered by the open-source [BinderHub](https://binderhub.readthedocs.io/en/latest/), which can be implemented for larger scale utilization. A prime example of a larger implementation would be the [Pangeo Binder](https://binder.pangeo.io/) for big data geoscience, or the [Hub 23](https://alan-turing-institute.github.io/hub23-deploy/) operated by the Alan Turing Institute (and named after the WWII code breaking facility). 
 
 Each session in this course is designed to be run in a Binder setting. When this class is being live-hosted, the Binder links will be fully operational to our hosted GCP Kubernetes cluster (which will be spun down when class is not in session). If you host your own BinderHub or have access to another, you can use the raw repositories to operate on those as well- it just will take a bit of extra time for the BinderHub to build the new container within it but is as simple as using the repo url. 
+
+## How to access it here
+For our implementation, access will only be available during live class sessions. To access each individual class, follow the Binder badges. For example the badges will look like this, *this is just an example badge*. 
+[![Binder](http://binder.bioinformagic.io/badge_logo.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+ 
+Each class will have badges on each page, as well as links to the notebooks within this course guide. 
+
+### Navigating the Notebook
+When you click on the badge, you will be taken directly to a specific Jupyter Notebook. This will look just like a singular page with the interactive code. If you click on the Jupyter logo on the top left, it will bring you to the home of that specific course. This will allow you to interact with the files in the specific class and re-enter the notebook if you wish. Some may prefer the Jupyter Lab interface over Notebook. To access the Lab interface, once you are at the home Jupyter page for each class, simply change the url ending from "/tree" to "/lab". This is reversible as well if you want to switch back at any point. 
+
+A visual walkthrough will be provided during the [Intro to Cloud & HPC](cloud-hpc_landing.html) session. 

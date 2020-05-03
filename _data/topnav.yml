@@ -35,6 +35,8 @@ topnav_dropdowns:
           url: /single-cell_landing.html
         - title: Long Reads 101
           url: /long-read_landing.html
+        - title: Metagenomics 101
+          url: /metagenomics_landing.html
 topnav:
 - title: Topnav
   items:
