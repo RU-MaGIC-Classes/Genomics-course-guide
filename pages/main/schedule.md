@@ -12,7 +12,7 @@ folder: main
 ## Schedule
 This full course is expected to follow a logical flow to completion. This begins with Introductory classes, then several coding languages, and lastly workflow specific classes. Below is a table listing the individual classes as well as anticipated pre-requisite classes/skills. 
 
-| Course Name | Expected Pre-requisite classes/skills | Material | Expected Completion Knowledge |
+| Class Name | Expected Pre-requisite classes/skills | Material | Expected Completion Knowledge |
 |-------|--------|---------|----------|
 | [Introducton to Next Generation Sequencing](ngs_landing.html) | Basic molecular biology knowledge | Lectures: Intro to NGS | Understanding what NGS is, how the various technologies work, and why you might use NGS |
 | [Introduction to Bioinformatics](bi_landing.html) | Completetion of Intro to NGS | Lectures: Intro to Bioinformatics | Understanding what Bioinformatics is in the context of NGS |

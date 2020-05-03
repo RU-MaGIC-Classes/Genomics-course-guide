@@ -36,7 +36,7 @@ topnav_dropdowns:
         - title: Long Reads 101
           url: /long-read_landing.html
         - title: Metagenomics 101
-          url: /metagenomics_landing.html
+          url: /meta_landing.html
 topnav:
 - title: Topnav
   items:
