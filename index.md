@@ -37,3 +37,5 @@ Invidual courses can be found in the top navigation bar. They are broken down as
 To see the expected schedule of classes and anticipated pre-requisites, please see the [schedule page](schedule.html). 
 
 {% include note.html content="Disclaimer: You may see some opinions of a goofy scientist. All comments within these pages are personal sentiments and do not reflect any stances held by Rutgers." %}
+
+<a href="https://github.com/RU-MaGIC-Classes/Genomics-course-guide" class="btn btn-primary">Go to Course Github</a>

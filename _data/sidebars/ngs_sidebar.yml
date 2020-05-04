@@ -3,8 +3,8 @@
 
 entries:
 - title: Sidebar
-  product: NGS
-  version: 1.0
+  product: Next Generation Sequencing
+  version: 
   folders:
 
   - title: Getting Started
@@ -37,3 +37,5 @@ entries:
     - title: Oxford Nanopore Technology
       url: /ont.html
       output: web
+  - title: GitHub
+    external_url: https://github.com/RU-MaGIC-Classes/Intro-to-NGS

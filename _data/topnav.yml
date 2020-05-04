@@ -40,7 +40,5 @@ topnav_dropdowns:
 topnav:
 - title: Topnav
   items:
-    - title: GitHub
-      external_url: https://github.com/RU-MaGIC-Classes/Genomics-course-guide
     - title: News
       url: /news

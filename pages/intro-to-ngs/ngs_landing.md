@@ -9,7 +9,7 @@ toc: false
 folder: intro-to-ngs
 ---
 
-Welcome to the Next Generation Sequencing Knowledge Base:
+Welcome to the Next Generation Sequencing Knowledge Base. Please see each section below for links to each primary sequencing technology currently active. Links are additionally in the sidebar for navigation. 
 
 <div class="row">
          <div class="col-lg-12">
