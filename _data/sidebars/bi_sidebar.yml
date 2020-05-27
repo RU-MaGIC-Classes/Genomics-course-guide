@@ -3,21 +3,28 @@
 
 entries:
 - title: Sidebar
-  product: RNA-seq
-  version: 1.0
+  product: Intro to Bioinformatics
+  version: 
   folders:
 
   - title: Getting Started
     output: web, pdf
     folderitems:
-    - title: Product 1 home
-      url: /p1_landing_page.html
+    - title: Home
+      url: /bi_landing.html
       output: web
 
-  - title: Another heading
-    output: web, pdf
-
+  - title: Lecture Links
+  output: web, pdf
+  
     folderitems:
-    - title: Sample 4
-      url: /p1_sample4.html
+    - title: Intro to Bioinformatics Lecture
+      external_url: https://github.com/RU-MaGIC-Classes/Intro-to-Bioinformatics/blob/master/docs/lectures/Intro_to_bi.pdf
       output: web, pdf
+
+  - title: Interactive Notebooks
+    output: web, pdf
+    folderitems:
+    - title: SRA Downloading
+      external_url: http://binder.bioinformagic.io/v2/gh/RU-MaGIC-Classes/Intro-to-Bioinformatics/master?filepath=SRA_download.ipynb
+      output: web
