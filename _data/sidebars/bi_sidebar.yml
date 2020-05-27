@@ -15,8 +15,7 @@ entries:
       output: web
 
   - title: Lecture Links
-  output: web, pdf
-  
+    output: web, pdf
     folderitems:
     - title: Intro to Bioinformatics Lecture
       external_url: https://github.com/RU-MaGIC-Classes/Intro-to-Bioinformatics/blob/master/docs/lectures/Intro_to_bi.pdf
