@@ -36,3 +36,5 @@ entries:
       - title: Data Management
         url: /data_management.html
         output: web
+  - title: GitHub
+    external_url: https://github.com/RU-MaGIC-Classes/Intro-to-Bioinformatics
