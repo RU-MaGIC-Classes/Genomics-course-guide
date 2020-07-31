@@ -9,7 +9,7 @@ toc: false
 folder: intro-to-bi
 ---
 
-Welcome to the Intro to Bioinformatics! For this session, it is recommended to view the presentation (link in the side bar) and explore the possible databases. 
+Welcome to the Intro to Bioinformatics! For this session, it is recommended to view the presentation (link in the side bar) and explore the possible databases. Listed below are the various repositories for data as well as resources for troubleshooting. 
 
 ## NCBI 
 [The National Center for Biotechnology Information](https://www.ncbi.nlm.nih.gov/)
