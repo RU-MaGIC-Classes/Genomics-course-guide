@@ -27,6 +27,7 @@ entries:
     - title: SRA Downloading
       external_url: http://binder.bioinformagic.io/v2/gh/RU-MaGIC-Classes/Intro-to-Bioinformatics/master?filepath=SRA_download.ipynb
       output: web
+
   - title: Knowledgebase Links
       output: web, pdf
       folderitems:
@@ -36,5 +37,6 @@ entries:
       - title: Data Management
         url: /data_management.html
         output: web
+        
   - title: GitHub
     external_url: https://github.com/RU-MaGIC-Classes/Intro-to-Bioinformatics
