@@ -20,22 +20,31 @@ entries:
     - title: Intro to Bioinformatics Lecture
       external_url: https://github.com/RU-MaGIC-Classes/Intro-to-Bioinformatics/blob/master/docs/lectures/Intro_to_bi.pdf
       output: web, pdf
+    - title: Jupyter Notebooks 101
+      external_url: https://github.com/RU-MaGIC-Classes/Intro-to-Bioinformatics/blob/master/docs/lectures/Jupyter_notebooks.pdf
+      output: web, pdf
 
   - title: Interactive Notebooks
     output: web, pdf
     folderitems:
-    - title: SRA Downloading
+    - title: SRA/ENA Downloading
       external_url: http://binder.bioinformagic.io/v2/gh/RU-MaGIC-Classes/Intro-to-Bioinformatics/master?filepath=SRA_download.ipynb
       output: web
 
   - title: Knowledgebase Links
     output: web, pdf
     folderitems:
+    - title: Bioinformatics Resources
+      url: /resources.html
+      output: web
     - title: Computer Components
       url: /hardware.html
       output: web
     - title: Data Management
       url: /data_management.html
+      output: web
+    - title: Using Git
+      url: /git.html
       output: web
 
   - title: GitHub
