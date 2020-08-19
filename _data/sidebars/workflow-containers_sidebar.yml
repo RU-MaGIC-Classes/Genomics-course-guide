@@ -3,21 +3,40 @@
 
 entries:
 - title: Sidebar
-  product: RNA-seq
-  version: 1.0
+  product: Workflow Managers and Containers
+  version: 
   folders:
 
   - title: Getting Started
     output: web, pdf
     folderitems:
-    - title: Product 1 home
-      url: /p1_landing_page.html
+    - title: Home
+      url: /workflow-containers_landing.html
       output: web
 
-  - title: Another heading
+  - title: Lecture Links
     output: web, pdf
-
     folderitems:
-    - title: Sample 4
-      url: /p1_sample4.html
+    - title: Container Tools
+      external_url: https://github.com/RU-MaGIC-Classes/Workflow-management-and-containers/blob/master/docs/lectures/Container_tools.pdf
       output: web, pdf
+    - title: Workflow Management
+      external_url: https://github.com/RU-MaGIC-Classes/Workflow-management-and-containers/blob/master/docs/lectures/Workflow_management.pdf
+      output: web, pdf
+
+  - title: Interactive Notebooks
+    output: web, pdf
+    folderitems:
+    - title: Something
+      external_url: Link
+      output: web
+
+  - title: Knowledgebase Links
+    output: web, pdf
+    folderitems:
+    - title: Something
+      url: /Somewhere.html
+      output: web
+
+   - title: GitHub
+    external_url: https://github.com/RU-MaGIC-Classes/Workflow-management-and-containers
