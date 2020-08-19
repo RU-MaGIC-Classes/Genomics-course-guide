@@ -38,5 +38,5 @@ entries:
       url: /Somewhere.html
       output: web
 
-   - title: GitHub
-    external_url: https://github.com/RU-MaGIC-Classes/Workflow-management-and-containers
+  - title: GitHub
+  external_url: https://github.com/RU-MaGIC-Classes/Workflow-management-and-containers
